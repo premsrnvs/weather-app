@@ -1,4 +1,4 @@
-# TaskFlow - To-Do App
-A responsive task manager built with HTML, CSS, and JavaScript.
-Features: Add/delete tasks, mark complete, filter by status, local storage support.
-Live Demo: https://premsrnvs.github.io/todo-app
+# WeatherNow - Weather App
+A weather lookup app built with HTML, CSS, and JavaScript.
+Features: City search, temperature, humidity, wind speed display.
+Live Demo: https://premsrnvs.github.io/weather-app
